@@ -1,0 +1,23 @@
+export const nameBand = 'RATA BLANCA';
+export const nameSongs = [
+	"MUJER AMANTE", /* (8/10) 1*/
+	"AÚN ESTÁS EN MIS SUEÑOS", /*2*/
+	"EL SUEÑO DE LA GITANA", /*3*/
+	"GUERRERO DEL ARCO IRIS", /*4*/
+	"ABRAZO LETAL", /*5*/
+	"LA LEYENDA DEL HADA Y EL MAGO ", /*(8/10) 6*/
+	"EL BESO DE LA BRUJA", /*7*/
+	"EL CAMINO DEL SOL", /*8*/
+	"PORQUE ES TAN DIFÍCIL AMAR", /*9*/
+	"BAJO EL PODER DEL SOL", /*10*/
+	"HÉROES", /*11*/
+	"LA MISMA MUJER", /*12*/
+	"LA OTRA CARA DE LA MONEDA", /*13*/
+	"SÓLO PARA AMARTE", /*14*/
+	"DIAS DUROS", /*15*/
+	"ELLA", /*16*/
+	"EN NOMBRE DE DIOS?", /*17*/
+	"EL CÍRCULO DE FUEGO", /*18*/
+	"TALISMAN", /*19*/
+	"EL REINO OLVIDADO", /*20*/
+]
